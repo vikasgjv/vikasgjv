@@ -72,8 +72,7 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ## 📊 GitHub Statistics
 
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgjv\&show_icons=true\&theme=radical)
-
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgjv&show_icons=true&theme=radical&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgjv\&layout=compact\&theme=radical)
 
 ---
