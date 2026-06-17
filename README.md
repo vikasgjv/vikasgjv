@@ -17,30 +17,6 @@ I am a results-driven developer passionate about building **Intelligent Systems*
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🏥 [Retinal Disease Detection](https://github.com/vikasgjv/retinal-disease-detection-resnet50-attention )
-*   **Domain:** Healthcare AI
-*   **Tech:** ResNet50 + Attention Mechanism, TensorFlow
-*   **Impact:** Automated classification of retinal diseases to assist in early diagnosis.
-
-#### 🎓 [ClassAI: Smart Classroom](https://github.com/vikasgjv/smart-classroom-ai )
-*   **Domain:** EdTech
-*   **Tech:** OpenCV, FastAPI, Real-time Face Detection
-*   **Impact:** Analyzes student engagement and attention levels during live sessions.
-
-#### 🧠 [MindGuard AI](https://github.com/vikasgjv/MindGuard-AI-Early-Burnout-Detection-for-Students )
-*   **Domain:** Mental Health
-*   **Tech:** Behavioral Analytics, Random Forest, Scikit-learn
-*   **Impact:** Detects early signs of student burnout to provide proactive wellness support.
-
-#### 📍 [LocateIQ: City Selection](https://github.com/vikasgjv/Multi-Factor-City-Selection )
-*   **Domain:** Business Intelligence
-*   **Tech:** Multi-factor Scoring Engine, JavaScript
-*   **Impact:** Data-driven decision support for businesses looking to expand into new cities.
-
----
-
 ### 📊 GitHub Statistics
 ![Vikass's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgjv&show_icons=true&theme=radical )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgjv&layout=compact&theme=radical )
