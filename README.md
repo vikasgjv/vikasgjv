@@ -47,16 +47,6 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## 🚀 Currently Working On
-
-* 🏥 AI-Based Retinal Disease Detection System
-* 🎓 ClassAI – Smart Classroom Attention Monitoring
-* 🤖 Deep Learning & Computer Vision Applications
-* 🌐 AI-Powered Full-Stack Solutions
-* 📚 Research-Oriented Machine Learning Projects
-
----
-
 ## 🎯 Areas of Interest
 
 * Artificial Intelligence
@@ -67,16 +57,6 @@ I am a passionate developer focused on building intelligent systems that solve r
 * Generative AI
 * Full-Stack Development
 * MLOps
-
----
-
-## 🏆 Achievements
-
-* 🥇 Top 5 Finalist – DecodeX Hackathon
-* 💰 Prize Winner (₹2000) at DecodeX
-* 🤖 Developed AI solutions in Healthcare, Education, and Mental Health domains
-* 🚀 Built and deployed multiple Machine Learning applications
-* 📈 Active contributor to AI/ML and Full-Stack projects
 
 ---
 
@@ -96,23 +76,6 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgjv\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasgjv\&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikasgjv\&theme=react-dark)
-
----
-
-## 💻 Coding Profiles
-
-* 🔹 LeetCode: Add Your Profile Link
-* 🔹 HackerRank: Add Your Profile Link
-* 🔹 CodeChef: Add Your Profile Link
-* 🔹 GeeksforGeeks: Add Your Profile Link
-
 ---
 
 ## 📫 Connect With Me
@@ -125,6 +88,6 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ## ⚡ Fun Fact
 
-> "I enjoy building AI solutions that transform ideas into impactful real-world applications."
+> "Building AI solutions that transform ideas into impactful real-world applications."
 
 🚀 Building the Future with AI, One Model at a Time.
