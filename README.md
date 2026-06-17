@@ -90,4 +90,4 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 > "Building AI solutions that transform ideas into impactful real-world applications."
 
-🚀 Building the Future with AI, One Model at a Time.
+Learning. Innovating. Building.
