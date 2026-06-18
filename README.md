@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Vikas G J!
+# Hi, I'm Vikas G J!
 
-### 🤖 AI/ML Developer | 🌐 Full-Stack Enthusiast | 🎓 CSE (AIML) Student
+### AI/ML Developer |  Full-Stack Enthusiast | CSE (AIML) Student
 
 I am a passionate developer focused on building intelligent systems that solve real-world problems through Artificial Intelligence, Machine Learning, and Full-Stack Development. Currently pursuing my B.Tech in Computer Science & Engineering (AIML) at Presidency University, Bengaluru, I enjoy transforming innovative ideas into impactful applications.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 B.Tech CSE (AIML) Student at Presidency University
 * 🤖 Passionate about Artificial Intelligence & Machine Learning
@@ -17,7 +17,7 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages
 
@@ -47,7 +47,7 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
@@ -60,7 +60,7 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
@@ -70,7 +70,7 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgjv&show_icons=true&theme=radical&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgjv\&layout=compact\&theme=radical)
@@ -79,13 +79,13 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/vikas-gj
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🌐 Portfolio: Coming Soon
+*  LinkedIn: https://www.linkedin.com/in/vikas-gj
+*  Email: [your-email@example.com](mailto:your-email@example.com)
+*  Portfolio: Coming Soon
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 > "Building AI solutions that transform ideas into impactful real-world applications."
 
