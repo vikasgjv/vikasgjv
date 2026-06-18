@@ -8,12 +8,11 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ## About Me
 
-* 🎓 B.Tech CSE (AIML) Student at Presidency University
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
-* 👨‍💻 Building AI-powered applications with real-world impact
-* 🌱 Currently exploring LLMs, RAG Systems, and Advanced Computer Vision
-* 🚀 Hackathon Enthusiast and Problem Solver
-* 📚 Continuously learning and experimenting with emerging technologies
+* B.Tech CSE (AIML) Student at Presidency University
+* Passionate about Artificial Intelligence & Machine Learning
+* Building AI-powered applications with real-world impact
+* Hackathon Enthusiast and Problem Solver
+* Continuously learning and experimenting with emerging technologies
 
 ---
 
@@ -60,16 +59,6 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## Currently Learning
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* LangChain & AI Agents
-* MLOps & Model Deployment
-* Advanced Computer Vision
-
----
-
 ##  GitHub Statistics
 
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgjv&show_icons=true&theme=radical&cache_seconds=1800)
@@ -77,10 +66,10 @@ I am a passionate developer focused on building intelligent systems that solve r
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 *  LinkedIn: https://www.linkedin.com/in/vikas-gj
-*  Email: [your-email@example.com](mailto:your-email@example.com)
+*  Email: vikasgjv@gmail.com
 *  Portfolio: Coming Soon
 
 ---
