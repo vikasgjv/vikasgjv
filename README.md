@@ -4,6 +4,7 @@
  
 I am a passionate developer focused on building intelligent systems that solve real-world problems through Artificial Intelligence, Machine Learning, and Full-Stack Development. Currently pursuing my B.Tech in Computer Science & Engineering (AIML) at Presidency University, Bengaluru, I enjoy transforming innovative ideas into impactful applications.
 
+
 ---
 
 ## About Me
