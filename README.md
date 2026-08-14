@@ -58,13 +58,7 @@ I am a passionate developer focused on building intelligent systems that solve r
 * Full-Stack Development
 * MLOps
 
----
-
-## 📊 GitHub Statistics
-
-![Vikas's GitHub Stats](YOUR_SELF_HOSTED_URL/api?username=vikasgjv&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Languages](YOUR_SELF_HOSTED_URL/api/top-langs/?username=vikasgjv&layout=compact&theme=radical)
+ 
 
 ---
 
